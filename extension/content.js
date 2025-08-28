@@ -1,5 +1,5 @@
 let NGPD_THRESHOLD = 0.55;
-const OPENROUTER_API_KEY = "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";
+const OPENROUTER_API_KEY = "";
 const OPENROUTER_MODEL = "deepseek/deepseek-r1:free";
 
 async function analyzeWithLLM(text) {
