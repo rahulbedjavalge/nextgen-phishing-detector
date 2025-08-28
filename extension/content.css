@@ -1,0 +1,9 @@
+.ngpd-card { font-family: Arial, sans-serif; background: #fff; padding: 10px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.12); }
+.ngpd-good { border-left: 6px solid #4caf50; }
+.ngpd-warn { border-left: 6px solid #ffd54f; }
+.ngpd-bad { border-left: 6px solid #ff5252; }
+.ngpd-score { font-size: 14px; font-weight: 700; }
+.ngpd-list { margin: 6px 0 0; padding: 0; list-style: none; }
+.ngpd-item { margin: 4px 0; font-size: 12px; }
+.ngpd-link-bad { outline: 2px solid #ff5252 !important; border-radius: 4px; }
+.ngpd-link-warn { outline: 2px solid #ffd54f !important; border-radius: 4px; }
