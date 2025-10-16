@@ -23,11 +23,4 @@ The score uses a small logistic model in `content.js`. Tweak the `weights` to tu
 - Toggle scanning and link highlighting in the popup
 - Manage allowlist and blocklist on the Options page
 
-## Dev tips
 
-- Use GitHub Copilot to propose new suspicious words, custom rules for your org, and improve DOM selectors for your email client
-- Add domain reputation using a small background fetch to a safe API you control. Store results in `chrome.storage.local` with a TTL
-
-## License
-
-MIT
